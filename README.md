@@ -15,3 +15,11 @@ Descripción corta del proyecto.
 
    ```bash
    git clone https://github.com/tu-usuario/tu-proyecto.git
+## Uso
+
+Describe cómo usar tu proyecto y proporciona ejemplos si es necesario.
+
+Por ejemplo, puedes mostrar cómo ejecutar el servidor:
+
+```bash
+node server.js
